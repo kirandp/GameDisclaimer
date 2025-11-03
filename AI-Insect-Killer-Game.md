@@ -309,6 +309,11 @@ Your game automatically saves when:
 
 ---
 
+## Screenshots
+
+![1](https://github.com/user-attachments/assets/1bfda847-ad03-4010-b452-b0d76ae6c527)
+
+
 ## 🎊 Have Fun!
 
 Enjoy playing Kill Insects Game! Challenge yourself to complete all 55 levels and become the ultimate insect slayer! 
