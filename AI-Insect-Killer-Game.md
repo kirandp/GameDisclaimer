@@ -26,7 +26,7 @@ Kill Insects Game is an AI-powered gesture recognition game where you use your h
    - If you have an existing profile, select it from the list
    - Each profile saves your progress independently
 
-4. **Grant Camera Permission**: The app needs camera access to detect your gestures. Tap "Grant Permission" when prompted.
+4. **Grant Camera Permission**: The app needs camera access & disk access. Tap "Grant Permission" when prompted.
 
 5. **Ready to Play**: After a 5-second countdown, the game begins!
 
