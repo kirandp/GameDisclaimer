@@ -41,6 +41,7 @@ Users are solely responsible for ensuring a safe environment and responsible use
 ## Developer Contact
 **Name**: Ashwini P.
 **Email**: indian.insect.killer@gmail.com
+**Mobile No**: 9699566076
 
 **By accepting these terms, you acknowledge that you have read, understood, and agree to comply with all the above conditions.**
 
